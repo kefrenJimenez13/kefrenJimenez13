@@ -12,17 +12,7 @@
 
 - ⚒️       During my internship in Digital IC Validation, I learned the SKILL language to perform automated simulation
         and verification of the devices I've designed.
-   
-      PCB Design Experience:
-      Software:             Altium Designer | Eagle | KiCAD | NI Ultiboard
-      Design Experience:    AC/DC Linear power source multiple output DC voltages.
-                            STM32 Dev board
-                            Line follower Power/Control/Sensor Design
-                            FM Transmiter with fixed band.
-                            MiniAVR DEV Board
   
-   
-- 📫 How to reach me ...
 
 <!---
 kefrenJimenez13/kefrenJimenez13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

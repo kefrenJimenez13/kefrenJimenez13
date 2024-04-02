@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @kefrenJimenez13
-- 👀 I’m interested in IC design & Embedded systems development
-- 🌱 I’m currently learning DSP and IoT cloud services like AWS, Google Cloud S.; Multilayer Stackup, mixed-signal, HF Signal Integrity 
-- 💞️ I’m have experience in the following platforms ARM MCU's(STM32, NXP), ESP32, AVR programed in low level programing as assembler,
-      high level languages as C/C++/Python BareMetal & HAL programing.
-      Implemented embedded systems running RTOS/Linux.
+- 👋 Hi, I’m @kefrenJimenez13, an electonics engineer
+- 👀 This fresh engineer is intrested in both silicon devices design (analog and digital) and embedded sytems development.
+- 🌱 I’m currently still learning and I am enthusiastic about sharing my knowledge and teach. Feel free to ask me anything
+- 💞️ I’m have experience in the following platforms:
+             > FPGA's (Spartan 6/7) describing hardware modules with HDL.
+             > ARM MCU's(STM32, NXP), ESP32, AVR programmed in low-level programming as assembler, high-level languages
+               as C/C++/Python (BareMetal & HAL programming).
+             > Implemented embedded systems running RTOS/Linux.
+        In IC design, I have experience with the Cadence environment tools like Virtuoso, Genus, Innovus.
+        I also use open-source tools like magic VLSI, NgSPICE, LTSPICE, Xscheme, OpenLane, and Icarus Verilog.
+        In my projects, I've used hardware description languages (HDL) such as VHDL, Verilog, and SystemVerilog.
+
+- ⚒️       During my internship in Digital IC Validation, I learned the SKILL language to perform automated simulation
+        and verification of the devices I've designed.
+   
       PCB Design Experience:
       Software:             Altium Designer | Eagle | KiCAD | NI Ultiboard
       Design Experience:    AC/DC Linear power source multiple output DC voltages.
